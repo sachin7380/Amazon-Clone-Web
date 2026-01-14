@@ -2,11 +2,12 @@
 
 Amazon Clone Website using Nextjs, Tailwindcss, Authjs, Stripejs.
 
-<img width="1280" alt="amazon_clone_using_nextjs_tailwindcss_stripejs,authjs_free_source_code" src="https://github.com/user-attachments/assets/a194ca47-f1cd-4496-be03-6bc8a435d0bc">
+<img width="954" height="477" alt="Screenshot 2026-01-15 003135" src="https://github.com/user-attachments/assets/42cd1bca-3204-499a-8a48-58344a1d641b" />
 
    ```
    
 Install Dependencies:
+
 
 Navigate to the project directory and install the required packages using one of the following package managers:
 
